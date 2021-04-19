@@ -14,7 +14,7 @@
   position: fixed;
   bottom: 0;
   left: 0;
-  background: rgb(242 242 242 / 80%);
+  background: rgb(255 192 203 / 80%);
   animation-name: mychar-phrase;
   animation-fill-mode: forward;
   animation-timing-function: linear;
